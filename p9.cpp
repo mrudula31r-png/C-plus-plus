@@ -1,6 +1,5 @@
 // Here is a simple C++ program to swap two numbers using a temporary variable:
 #include <iostream>
-
 int main() {
     int a, b;
 
